@@ -20,7 +20,7 @@ def getClasses():
     classes = json.load(f)
   return classes
 
-def bookClass(name,user,password,day, time):
+def bookClass(name,user,password,day,time):
   print(name,user,password)
 
 def main():
@@ -49,7 +49,7 @@ def main():
         minute=minute
       )
 
-@sched.scheduled_job('cron', hour=20, minute=16)
+@sched.scheduled_job('cron', hour=6)
 def scheduled_job():
     """
     """
