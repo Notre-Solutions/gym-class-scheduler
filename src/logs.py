@@ -1,6 +1,6 @@
 import logging
 import os.path
-import Utils
+from Utils import Utils
 from datetime import datetime
 
 config = Utils().get_config()['LOG']
@@ -12,8 +12,8 @@ INFO = logging.INFO
 DEBUG = logging.DEBUG
 
 LOGGING_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-LOG_DIR = os.path.join( os.path.dirname(os.path.realpath(__file__)), config['LOG_REL_PATH'])
-LOG_FILE_NAME = config['LOG_FILE_NAME']
+LOG_DIR = os.path.join( os.path.dirname(os.path.realpath(__file__)), config['LOG_REL_PATH'].replace("'", ""))
+LOG_FILE_NAME = config['LOG_FILE_NAME'].replace("'", "")
 
 
 if not os.path.exists(LOG_DIR):

@@ -119,5 +119,3 @@ class BookClass:
         except Exception as error:
             log.error('Error booking class', error)
 
-
-BookClass().book_class('stephenkelehan@gmail.com', '46292edd', 'BOXING FDM', '17:30', 'Tuesday')
