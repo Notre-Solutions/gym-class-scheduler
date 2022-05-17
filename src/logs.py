@@ -12,8 +12,8 @@ INFO = logging.INFO
 DEBUG = logging.DEBUG
 
 LOGGING_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-LOG_DIR = os.path.join( os.path.dirname(os.path.realpath(__file__)), config['LOG_REL_PATH'].replace("'", ""))
-LOG_FILE_NAME = config['LOG_FILE_NAME'].replace("'", "")
+LOG_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), config['LOG_REL_PATH'])
+LOG_FILE_NAME = config['LOG_FILE_NAME']
 
 
 if not os.path.exists(LOG_DIR):
@@ -42,9 +42,13 @@ def debug(log_message):
 
 def setup_logger(logger_name='Main', log_format=LOGGING_FORMAT, log_level=DEBUG, log_file_name=LOG_FILE_NAME):
     logging.basicConfig(format=log_format,
-                        filename=os.path.join(LOG_DIR, log_file_name.format(date=datetime.now().strftime('%d_%m_%y'))),
                         level=log_level,
-                        datefmt='%m/%d/%Y %I:%M:%S %p')
+                        datefmt='%m/%d/%Y %I:%M:%S %p',
+                        handlers=[
+                            logging.FileHandler(os.path.join(LOG_DIR, log_file_name.format(date=datetime.now().strftime('%d_%m_%y')))),
+                            logging.StreamHandler()
+                        ]
+                        )
 
     return logging.getLogger(name=str(logger_name))
 

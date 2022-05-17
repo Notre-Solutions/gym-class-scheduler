@@ -10,7 +10,7 @@ log = setup_logger(logger_name='Schedular')
 
 
 def get_classes():
-    class_config_file = Utils.get_config()['FILES']['CLASS_CONFIG'].replace("'", "")
+    class_config_file = Utils.get_config()['FILES']['CLASS_CONFIG']
     with open(class_config_file, 'r') as f:
         classes = json.load(f)
     return classes

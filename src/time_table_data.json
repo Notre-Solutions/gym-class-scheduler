@@ -1,1216 +1,1216 @@
 {
-    "Sunday": {
-        "FORMULA 3 09:15": {
-            "id": "631582",
-            "time": "09:15",
-            "name": "FORMULA 3"
-        },
-        "DYNAMIC PILATES 09:30": {
-            "id": "291698",
-            "time": "09:30",
-            "name": "DYNAMIC PILATES"
-        },
-        "BOXING 09:30": {
-            "id": "292058",
-            "time": "09:30",
-            "name": "BOXING"
-        },
-        "YARD CIRCUIT  09:30": {
-            "id": "733275",
-            "time": "09:30",
-            "name": "YARD CIRCUIT "
-        },
-        "WATTBIKE 09:45": {
-            "id": "716361",
-            "time": "09:45",
-            "name": "WATTBIKE"
-        },
-        "VINYASA YOGA 10:00": {
-            "id": "741026",
-            "time": "10:00",
-            "name": "VINYASA YOGA"
-        },
-        "BODYWEIGHT HIIT 10:15": {
-            "id": "291879",
-            "time": "10:15",
-            "name": "BODYWEIGHT HIIT"
-        },
-        "PILATES FUNDAMENTALS 10:30": {
-            "id": "709085",
-            "time": "10:30",
-            "name": "PILATES FUNDAMENTALS"
-        },
-        "BOXING PADWORK 10:30": {
-            "id": "716507",
-            "time": "10:30",
-            "name": "BOXING PADWORK"
-        },
-        "HARDCORE CYCLE 10:45": {
-            "id": "292418",
-            "time": "10:45",
-            "name": "HARDCORE CYCLE"
-        },
-        "HATHA YOGA 11:00": {
-            "id": "292598",
-            "time": "11:00",
-            "name": "HATHA YOGA"
-        },
-        "YARD WOD 11:00": {
-            "id": "733314",
-            "time": "11:00",
-            "name": "YARD WOD"
-        },
-        "LIFT 11:15": {
-            "id": "631723",
-            "time": "11:15",
-            "name": "LIFT"
-        },
-        "SWEAT X 11:20": {
-            "id": "755016",
-            "time": "11:20",
-            "name": "SWEAT X"
-        },
-        "DYNAMIC PILATES 11:30": {
-            "id": "709160",
-            "time": "11:30",
-            "name": "DYNAMIC PILATES"
-        },
-        "BOXING FDM 11:30": {
-            "id": "718482",
-            "time": "11:30",
-            "name": "BOXING FDM"
-        },
-        "YIN YOGA 12:00": {
-            "id": "293318",
-            "time": "12:00",
-            "name": "YIN YOGA"
-        },
-        "METABURN 12:15": {
-            "id": "709236",
-            "time": "12:15",
-            "name": "METABURN"
-        },
-        "SPEED FIENDS 12:20": {
-            "id": "631997",
-            "time": "12:20",
-            "name": "SPEED FIENDS"
-        },
-        "KICKBOXING 12:30": {
-            "id": "716580",
-            "time": "12:30",
-            "name": "KICKBOXING"
-        },
-        "HATHA YOGA 13:00": {
-            "id": "709311",
-            "time": "13:00",
-            "name": "HATHA YOGA"
-        },
-        "KETTLEBELLS 13:15": {
-            "id": "733353",
-            "time": "13:15",
-            "name": "KETTLEBELLS"
-        },
-        "SWEAT X 13:20": {
-            "id": "632426",
-            "time": "13:20",
-            "name": "SWEAT X"
-        },
-        "KICKBOXING 13:30": {
-            "id": "808244",
-            "time": "13:30",
-            "name": "KICKBOXING"
-        },
-        "LGA 14:15": {
-            "id": "744496",
-            "time": "14:15",
-            "name": "LGA"
-        },
-        "HATHA YOGA 15:00": {
-            "id": "632709",
-            "time": "15:00",
-            "name": "HATHA YOGA"
-        },
-        "CORE 45 15:15": {
-            "id": "768996",
-            "time": "15:15",
-            "name": "CORE 45"
-        }
-    },
-    "Monday": {
-        "BODYWEIGHT HIIT 06:15": {
-            "id": "838198",
-            "time": "06:15",
-            "name": "BODYWEIGHT HIIT"
-        },
-        "HATHA YOGA 07:00": {
-            "id": "811037",
-            "time": "07:00",
-            "name": "HATHA YOGA"
-        },
-        "YARD WOD 07:00": {
-            "id": "294219",
-            "time": "07:00",
-            "name": "YARD WOD"
-        },
-        "LIFT 07:15": {
-            "id": "294579",
-            "time": "07:15",
-            "name": "LIFT"
-        },
-        "SPEED FIENDS 07:20": {
-            "id": "508609",
-            "time": "07:20",
-            "name": "SPEED FIENDS"
-        },
-        "YARD WOD 08:00": {
-            "id": "804745",
-            "time": "08:00",
-            "name": "YARD WOD"
-        },
-        "SPEED FIENDS 09:20": {
-            "id": "709463",
-            "time": "09:20",
-            "name": "SPEED FIENDS"
-        },
-        "YARD WOD 12:00": {
-            "id": "295839",
-            "time": "12:00",
-            "name": "YARD WOD"
-        },
-        "LIFT 12:15": {
-            "id": "739897",
-            "time": "12:15",
-            "name": "LIFT"
-        },
-        "SWEAT X 12:20": {
-            "id": "791329",
-            "time": "12:20",
-            "name": "SWEAT X"
-        },
-        "BOXING 12:30": {
-            "id": "626162",
-            "time": "12:30",
-            "name": "BOXING"
-        },
-        "THE METHOD 12:30": {
-            "id": "626025",
-            "time": "12:30",
-            "name": "THE METHOD"
-        },
-        "HARDCORE CYCLE 12:45": {
-            "id": "296559",
-            "time": "12:45",
-            "name": "HARDCORE CYCLE"
-        },
-        "YARD KETTLEBELLS 13:00": {
-            "id": "296918",
-            "time": "13:00",
-            "name": "YARD KETTLEBELLS"
-        },
-        "YIN YOGA 13:00": {
-            "id": "297278",
-            "time": "13:00",
-            "name": "YIN YOGA"
-        },
-        "FORMULA 3 13:15": {
-            "id": "739965",
-            "time": "13:15",
-            "name": "FORMULA 3"
-        },
-        "SPEED FIENDS 13:20": {
-            "id": "791376",
-            "time": "13:20",
-            "name": "SPEED FIENDS"
-        },
-        "ZUMBA 13:30": {
-            "id": "297996",
-            "time": "13:30",
-            "name": "ZUMBA"
-        },
-        "YARD WOD 17:00": {
-            "id": "299223",
-            "time": "17:00",
-            "name": "YARD WOD"
-        },
-        "CORE 45 17:15": {
-            "id": "761185",
-            "time": "17:15",
-            "name": "CORE 45"
-        },
-        "SWEAT X 17:20": {
-            "id": "807608",
-            "time": "17:20",
-            "name": "SWEAT X"
-        },
-        "KICKBOXING 17:30": {
-            "id": "677916",
-            "time": "17:30",
-            "name": "KICKBOXING"
-        },
-        "JUST RIDE 17:45": {
-            "id": "298895",
-            "time": "17:45",
-            "name": "JUST RIDE"
-        },
-        "HATHA YOGA 18:00": {
-            "id": "705010",
-            "time": "18:00",
-            "name": "HATHA YOGA"
-        },
-        "YARD WOD 18:00": {
-            "id": "509130",
-            "time": "18:00",
-            "name": "YARD WOD"
-        },
-        "AFTERBURNER 18:05": {
-            "id": "743755",
-            "time": "18:05",
-            "name": "AFTERBURNER"
-        },
-        "LIFT 18:15": {
-            "id": "746571",
-            "time": "18:15",
-            "name": "LIFT"
-        },
-        "SWEAT X 18:20": {
-            "id": "837901",
-            "time": "18:20",
-            "name": "SWEAT X"
-        },
-        "SWIM - SKILLS & DRILLS 18:30": {
-            "id": "705089",
-            "time": "18:30",
-            "name": "SWIM - SKILLS & DRILLS"
-        },
-        "KICKBOXING 18:30": {
-            "id": "299976",
-            "time": "18:30",
-            "name": "KICKBOXING"
-        },
-        "DYNAMIC PILATES 18:30": {
-            "id": "405963",
-            "time": "18:30",
-            "name": "DYNAMIC PILATES"
-        },
-        "HARDCORE CYCLE 18:45": {
-            "id": "300156",
-            "time": "18:45",
-            "name": "HARDCORE CYCLE"
-        },
-        "YARD KETTLEBELLS 19:00": {
-            "id": "300516",
-            "time": "19:00",
-            "name": "YARD KETTLEBELLS"
-        },
-        "VINYASA YOGA 19:00": {
-            "id": "300696",
-            "time": "19:00",
-            "name": "VINYASA YOGA"
-        },
-        "METABURN 19:15": {
-            "id": "300876",
-            "time": "19:15",
-            "name": "METABURN"
-        },
-        "SPEED FIENDS 19:20": {
-            "id": "749454",
-            "time": "19:20",
-            "name": "SPEED FIENDS"
-        },
-        "PILATES FUNDAMENTALS 19:30": {
-            "id": "740679",
-            "time": "19:30",
-            "name": "PILATES FUNDAMENTALS"
-        },
-        "BOXING 19:30": {
-            "id": "821082",
-            "time": "19:30",
-            "name": "BOXING"
-        },
-        "VINYASA YOGA 20:00": {
-            "id": "627416",
-            "time": "20:00",
-            "name": "VINYASA YOGA"
-        }
-    },
     "Tuesday": {
         "FORMULA 3 06:15": {
-            "id": "626454",
+            "id": "626455",
             "time": "06:15",
             "name": "FORMULA 3"
         },
         "JUST RIDE 06:45": {
-            "id": "816954",
+            "id": "816955",
             "time": "06:45",
             "name": "JUST RIDE"
         },
         "YIN YOGA 07:00": {
-            "id": "705712",
+            "id": "705713",
             "time": "07:00",
             "name": "YIN YOGA"
         },
         "YARD STRONG  07:00": {
-            "id": "705636",
+            "id": "705637",
             "time": "07:00",
             "name": "YARD STRONG "
         },
         "BODYWEIGHT HIIT 07:15": {
-            "id": "660711",
+            "id": "660712",
             "time": "07:15",
             "name": "BODYWEIGHT HIIT"
         },
         "BOXING 07:30": {
-            "id": "302314",
+            "id": "302315",
             "time": "07:30",
             "name": "BOXING"
         },
         "DYNAMIC PILATES 07:30": {
-            "id": "626591",
+            "id": "626592",
             "time": "07:30",
             "name": "DYNAMIC PILATES"
         },
         "WATTBIKE 07:45": {
-            "id": "817109",
+            "id": "817110",
             "time": "07:45",
             "name": "WATTBIKE"
         },
         "YARD STRONG  08:00": {
-            "id": "705844",
+            "id": "705845",
             "time": "08:00",
             "name": "YARD STRONG "
         },
         "SPEED FIENDS 08:20": {
-            "id": "705922",
+            "id": "705923",
             "time": "08:20",
             "name": "SPEED FIENDS"
         },
         "YARD STRONG  11:00": {
-            "id": "705998",
+            "id": "705999",
             "time": "11:00",
             "name": "YARD STRONG "
         },
-        "VINYASA YOGA 12:00": {
-            "id": "758423",
-            "time": "12:00",
-            "name": "VINYASA YOGA"
-        },
         "YARD STRONG  12:00": {
-            "id": "706088",
+            "id": "706089",
             "time": "12:00",
             "name": "YARD STRONG "
         },
+        "VINYASA YOGA 12:00": {
+            "id": "758424",
+            "time": "12:00",
+            "name": "VINYASA YOGA"
+        },
         "TRX MAX 12:05": {
-            "id": "706317",
+            "id": "706318",
             "time": "12:05",
             "name": "TRX MAX"
         },
         "METCON 12:10": {
-            "id": "839588",
+            "id": "839589",
             "time": "12:10",
             "name": "METCON"
         },
         "THE WOD  12:15": {
-            "id": "303752",
+            "id": "303753",
             "time": "12:15",
             "name": "THE WOD "
         },
         "DYNAMIC PILATES 12:30": {
-            "id": "303572",
+            "id": "303573",
             "time": "12:30",
             "name": "DYNAMIC PILATES"
         },
         "JUST RIDE 12:45": {
-            "id": "509442",
+            "id": "509443",
             "time": "12:45",
             "name": "JUST RIDE"
         },
         "CORE TRAINING WORKSHOP 13:00": {
-            "id": "839593",
+            "id": "839594",
             "time": "13:00",
             "name": "CORE TRAINING WORKSHOP"
         },
         "YARD KETTLEBELLS 13:00": {
-            "id": "841667",
+            "id": "841668",
             "time": "13:00",
             "name": "YARD KETTLEBELLS"
         },
         "METABURN 13:15": {
-            "id": "740148",
+            "id": "740149",
             "time": "13:15",
             "name": "METABURN"
         },
         "SPEED FIENDS 13:20": {
-            "id": "706164",
+            "id": "706165",
             "time": "13:20",
             "name": "SPEED FIENDS"
         },
         "PULSE 13:30": {
-            "id": "759377",
+            "id": "759378",
             "time": "13:30",
             "name": "PULSE"
         },
         "HATHA YOGA 17:00": {
-            "id": "305909",
+            "id": "305910",
             "time": "17:00",
             "name": "HATHA YOGA"
         },
         "YARD STRONG  17:00": {
-            "id": "785311",
+            "id": "785312",
             "time": "17:00",
             "name": "YARD STRONG "
         },
         "METABURN 17:15": {
-            "id": "813162",
+            "id": "813163",
             "time": "17:15",
             "name": "METABURN"
         },
         "PULSE 17:30": {
-            "id": "706471",
+            "id": "706472",
             "time": "17:30",
             "name": "PULSE"
         },
         "BOXING FDM 17:30": {
-            "id": "724708",
+            "id": "724709",
             "time": "17:30",
             "name": "BOXING FDM"
         },
         "JUST RIDE 17:45": {
-            "id": "743283",
+            "id": "743284",
             "time": "17:45",
             "name": "JUST RIDE"
         },
         "VINYASA YOGA 18:00": {
-            "id": "306987",
+            "id": "306988",
             "time": "18:00",
             "name": "VINYASA YOGA"
         },
         "YARD STRONG  18:00": {
-            "id": "706547",
+            "id": "706548",
             "time": "18:00",
             "name": "YARD STRONG "
         },
         "THE WOD  18:15": {
-            "id": "307167",
+            "id": "307168",
             "time": "18:15",
             "name": "THE WOD "
         },
         "SWEAT X 18:20": {
-            "id": "627003",
+            "id": "627004",
             "time": "18:20",
             "name": "SWEAT X"
         },
         "THE METHOD 18:30": {
-            "id": "307347",
+            "id": "307348",
             "time": "18:30",
             "name": "THE METHOD"
         },
         "BOXING 18:30": {
-            "id": "307527",
+            "id": "307528",
             "time": "18:30",
             "name": "BOXING"
         },
         "POWERIDE 18:45": {
-            "id": "743229",
+            "id": "743230",
             "time": "18:45",
             "name": "POWERIDE"
         },
         "HATHA YOGA 19:00": {
-            "id": "308067",
+            "id": "308068",
             "time": "19:00",
             "name": "HATHA YOGA"
         },
         "YARD STRONG  19:00": {
-            "id": "706623",
+            "id": "706624",
             "time": "19:00",
             "name": "YARD STRONG "
         },
         "FORMULA 3 19:15": {
-            "id": "509962",
+            "id": "509963",
             "time": "19:15",
             "name": "FORMULA 3"
         },
         "SPEED FIENDS 19:20": {
-            "id": "440039",
+            "id": "440040",
             "time": "19:20",
             "name": "SPEED FIENDS"
         },
         "BOXING PADWORK 19:30": {
-            "id": "715992",
+            "id": "715993",
             "time": "19:30",
             "name": "BOXING PADWORK"
         },
         "BOXING SPARRING - ADVANCED ONLY 20:30": {
-            "id": "726763",
+            "id": "726764",
             "time": "20:30",
             "name": "BOXING SPARRING - ADVANCED ONLY"
         }
     },
     "Wednesday": {
         "LIFT 06:15": {
-            "id": "706699",
+            "id": "706700",
             "time": "06:15",
             "name": "LIFT"
         },
         "POWERIDE 06:45": {
-            "id": "309867",
+            "id": "309868",
             "time": "06:45",
             "name": "POWERIDE"
         },
         "YARD WOD 07:00": {
-            "id": "309147",
+            "id": "309148",
             "time": "07:00",
             "name": "YARD WOD"
         },
         "VINYASA YOGA 07:00": {
-            "id": "309327",
+            "id": "309328",
             "time": "07:00",
             "name": "VINYASA YOGA"
         },
         "FORMULA 3 07:15": {
-            "id": "706776",
+            "id": "706777",
             "time": "07:15",
             "name": "FORMULA 3"
         },
-        "PULSE 07:30": {
-            "id": "835772",
-            "time": "07:30",
-            "name": "PULSE"
+        "SPEED FIENDS 07:20": {
+            "id": "845169",
+            "time": "07:20",
+            "name": "SPEED FIENDS"
         },
         "WATTBIKE 07:45": {
-            "id": "716066",
+            "id": "716067",
             "time": "07:45",
             "name": "WATTBIKE"
         },
         "YARD WOD 08:00": {
-            "id": "732111",
+            "id": "732112",
             "time": "08:00",
             "name": "YARD WOD"
         },
         "SWEAT X 08:20": {
-            "id": "706853",
+            "id": "706854",
             "time": "08:20",
             "name": "SWEAT X"
         },
         "TRX MAX 09:05": {
-            "id": "770049",
+            "id": "770050",
             "time": "09:05",
             "name": "TRX MAX"
         },
         "YARD WOD 12:00": {
-            "id": "310587",
+            "id": "310588",
             "time": "12:00",
             "name": "YARD WOD"
         },
         "TRX MAX 12:05": {
-            "id": "706929",
+            "id": "706930",
             "time": "12:05",
             "name": "TRX MAX"
         },
         "FORCE 12:15": {
-            "id": "841046",
+            "id": "841047",
             "time": "12:15",
             "name": "FORCE"
         },
-        "LEARN TO LIFT - LOWER BODY 12:30": {
-            "id": "839598",
-            "time": "12:30",
-            "name": "LEARN TO LIFT - LOWER BODY"
-        },
         "DYNAMIC PILATES 12:30": {
-            "id": "707161",
+            "id": "707162",
             "time": "12:30",
             "name": "DYNAMIC PILATES"
         },
         "POWERIDE 12:45": {
-            "id": "510282",
+            "id": "510283",
             "time": "12:45",
             "name": "POWERIDE"
         },
         "HATHA YOGA 13:00": {
-            "id": "311667",
+            "id": "311668",
             "time": "13:00",
             "name": "HATHA YOGA"
         },
+        "AFTERBURNER 13:05": {
+            "id": "845371",
+            "time": "13:05",
+            "name": "AFTERBURNER"
+        },
         "LIFT 13:15": {
-            "id": "740226",
+            "id": "740227",
             "time": "13:15",
             "name": "LIFT"
         },
         "SWEAT X 13:20": {
-            "id": "707085",
+            "id": "707086",
             "time": "13:20",
             "name": "SWEAT X"
         },
         "PILATES FUNDAMENTALS 13:30": {
-            "id": "759559",
+            "id": "759560",
             "time": "13:30",
             "name": "PILATES FUNDAMENTALS"
         },
         "YARD WOD 17:00": {
-            "id": "312207",
+            "id": "312208",
             "time": "17:00",
             "name": "YARD WOD"
         },
         "HATHA YOGA 17:00": {
-            "id": "312387",
+            "id": "312388",
             "time": "17:00",
             "name": "HATHA YOGA"
         },
         "LGA 17:15": {
-            "id": "789368",
+            "id": "789369",
             "time": "17:15",
             "name": "LGA"
         },
         "BOXING PADWORK 17:30": {
-            "id": "724778",
+            "id": "724779",
             "time": "17:30",
             "name": "BOXING PADWORK"
         },
         "DANCE FIT 17:30": {
-            "id": "749811",
+            "id": "749812",
             "time": "17:30",
             "name": "DANCE FIT"
         },
         "YARD WOD 18:00": {
-            "id": "313107",
+            "id": "313108",
             "time": "18:00",
             "name": "YARD WOD"
         },
         "YIN YOGA 18:00": {
-            "id": "313287",
+            "id": "313288",
             "time": "18:00",
             "name": "YIN YOGA"
         },
         "BODYWEIGHT HIIT 18:15": {
-            "id": "627964",
+            "id": "627965",
             "time": "18:15",
             "name": "BODYWEIGHT HIIT"
         },
+        "SPEED FIENDS 18:20": {
+            "id": "845217",
+            "time": "18:20",
+            "name": "SPEED FIENDS"
+        },
         "BOXING 18:30": {
-            "id": "653145",
+            "id": "653146",
             "time": "18:30",
             "name": "BOXING"
         },
-        "ZUMBA 18:30": {
-            "id": "754870",
+        "DANCE FIT 18:30": {
+            "id": "846362",
             "time": "18:30",
-            "name": "ZUMBA"
+            "name": "DANCE FIT"
         },
         "JUST RIDE 18:45": {
-            "id": "628239",
+            "id": "628240",
             "time": "18:45",
             "name": "JUST RIDE"
         },
         "FORMULA 3 19:15": {
-            "id": "647022",
+            "id": "647023",
             "time": "19:15",
             "name": "FORMULA 3"
         },
         "SWEAT X 19:20": {
-            "id": "510594",
+            "id": "510595",
             "time": "19:20",
             "name": "SWEAT X"
         },
         "BOXING FDM 19:30": {
-            "id": "628101",
+            "id": "628102",
             "time": "19:30",
             "name": "BOXING FDM"
         },
         "THE METHOD 19:30": {
-            "id": "766512",
+            "id": "766513",
             "time": "19:30",
             "name": "THE METHOD"
         }
     },
     "Thursday": {
         "METABURN 06:15": {
-            "id": "707541",
+            "id": "707542",
             "time": "06:15",
             "name": "METABURN"
         },
         "TRIATHLON SWIM  06:45": {
-            "id": "694521",
+            "id": "694522",
             "time": "06:45",
             "name": "TRIATHLON SWIM "
         },
         "HARDCORE CYCLE 06:45": {
-            "id": "315267",
+            "id": "315268",
             "time": "06:45",
             "name": "HARDCORE CYCLE"
         },
         "VINYASA YOGA 07:00": {
-            "id": "315627",
+            "id": "315628",
             "time": "07:00",
             "name": "VINYASA YOGA"
         },
         "YARD STRONG  07:00": {
-            "id": "707313",
+            "id": "707314",
             "time": "07:00",
             "name": "YARD STRONG "
         },
         "LIFT 07:15": {
-            "id": "707389",
+            "id": "707390",
             "time": "07:15",
             "name": "LIFT"
         },
         "BOXING 07:30": {
-            "id": "316166",
+            "id": "316167",
             "time": "07:30",
             "name": "BOXING"
         },
-        "PILATES FUNDAMENTALS 07:30": {
-            "id": "707465",
-            "time": "07:30",
-            "name": "PILATES FUNDAMENTALS"
-        },
         "WATTBIKE 07:45": {
-            "id": "694653",
+            "id": "694654",
             "time": "07:45",
             "name": "WATTBIKE"
         },
         "HATHA YOGA 08:00": {
-            "id": "316526",
+            "id": "316527",
             "time": "08:00",
             "name": "HATHA YOGA"
         },
         "YARD STRONG  08:00": {
-            "id": "790132",
+            "id": "790133",
             "time": "08:00",
             "name": "YARD STRONG "
         },
         "LGA 08:15": {
-            "id": "707847",
+            "id": "707848",
             "time": "08:15",
             "name": "LGA"
         },
         "SWEAT X 09:20": {
-            "id": "707695",
+            "id": "707696",
             "time": "09:20",
             "name": "SWEAT X"
         },
         "YARD STRONG  11:00": {
-            "id": "707923",
+            "id": "707924",
             "time": "11:00",
             "name": "YARD STRONG "
         },
         "VINYASA YOGA 12:00": {
-            "id": "317066",
+            "id": "317067",
             "time": "12:00",
             "name": "VINYASA YOGA"
         },
         "YARD STRONG  12:00": {
-            "id": "707999",
+            "id": "708000",
             "time": "12:00",
             "name": "YARD STRONG "
         },
         "AFTERBURNER 12:05": {
-            "id": "716140",
+            "id": "716141",
             "time": "12:05",
             "name": "AFTERBURNER"
         },
         "LEARN TO LIFT - UPPER BODY 12:10": {
-            "id": "839603",
+            "id": "839604",
             "time": "12:10",
             "name": "LEARN TO LIFT - UPPER BODY"
         },
         "AQUA FIT 12:30": {
-            "id": "816237",
+            "id": "816238",
             "time": "12:30",
             "name": "AQUA FIT"
         },
         "BOXING 12:30": {
-            "id": "317606",
+            "id": "317607",
             "time": "12:30",
             "name": "BOXING"
         },
         "DYNAMIC PILATES 12:30": {
-            "id": "759514",
+            "id": "759515",
             "time": "12:30",
             "name": "DYNAMIC PILATES"
         },
         "JUST RIDE 12:45": {
-            "id": "510960",
+            "id": "510961",
             "time": "12:45",
             "name": "JUST RIDE"
         },
         "LIFT 13:15": {
-            "id": "318326",
+            "id": "318327",
             "time": "13:15",
             "name": "LIFT"
         },
         "THE METHOD 13:30": {
-            "id": "766557",
+            "id": "766558",
             "time": "13:30",
             "name": "THE METHOD"
         },
         "YARD STRONG  17:00": {
-            "id": "708314",
+            "id": "708315",
             "time": "17:00",
             "name": "YARD STRONG "
         },
         "FORMULA 3 17:15": {
-            "id": "628801",
+            "id": "628802",
             "time": "17:15",
             "name": "FORMULA 3"
         },
         "POWERIDE 17:45": {
-            "id": "318866",
+            "id": "318867",
             "time": "17:45",
             "name": "POWERIDE"
         },
         "ROCKET YOGA 18:00": {
-            "id": "319226",
+            "id": "319227",
             "time": "18:00",
             "name": "ROCKET YOGA"
         },
         "YARD STRONG  18:00": {
-            "id": "708390",
+            "id": "708391",
             "time": "18:00",
             "name": "YARD STRONG "
         },
         "METABURN 18:15": {
-            "id": "647297",
+            "id": "647298",
             "time": "18:15",
             "name": "METABURN"
         },
         "KICKBOXING 18:30": {
-            "id": "755831",
+            "id": "755832",
             "time": "18:30",
             "name": "KICKBOXING"
         },
         "DANCE FIT 18:30": {
-            "id": "761137",
+            "id": "761138",
             "time": "18:30",
             "name": "DANCE FIT"
         },
         "YIN YOGA 19:00": {
-            "id": "319766",
+            "id": "319767",
             "time": "19:00",
             "name": "YIN YOGA"
         },
         "LIFT 19:15": {
-            "id": "814902",
+            "id": "814903",
             "time": "19:15",
             "name": "LIFT"
         },
         "SWEAT X 19:20": {
-            "id": "629351",
+            "id": "629352",
             "time": "19:20",
             "name": "SWEAT X"
         },
         "MUAY THAI 19:30": {
-            "id": "755892",
+            "id": "755893",
             "time": "19:30",
             "name": "MUAY THAI"
         }
     },
     "Friday": {
         "YARD WOD 06:00": {
-            "id": "813281",
+            "id": "813282",
             "time": "06:00",
             "name": "YARD WOD"
         },
         "SPEED FIENDS 06:20": {
-            "id": "825364",
+            "id": "825365",
             "time": "06:20",
             "name": "SPEED FIENDS"
         },
         "VINYASA YOGA 07:00": {
-            "id": "320486",
+            "id": "320487",
             "time": "07:00",
             "name": "VINYASA YOGA"
         },
         "YARD WOD 07:00": {
-            "id": "320666",
+            "id": "320667",
             "time": "07:00",
             "name": "YARD WOD"
         },
         "LIFT 07:15": {
-            "id": "522668",
+            "id": "522669",
             "time": "07:15",
             "name": "LIFT"
         },
-        "SWEAT X 07:20": {
-            "id": "791963",
-            "time": "07:20",
-            "name": "SWEAT X"
-        },
-        "THE METHOD 07:30": {
-            "id": "835871",
+        "PULSE 07:30": {
+            "id": "846909",
             "time": "07:30",
-            "name": "THE METHOD"
+            "name": "PULSE"
         },
         "HARDCORE CYCLE 07:45": {
-            "id": "822784",
+            "id": "822785",
             "time": "07:45",
             "name": "HARDCORE CYCLE"
         },
         "HATHA YOGA 08:00": {
-            "id": "659565",
+            "id": "659566",
             "time": "08:00",
             "name": "HATHA YOGA"
         },
         "YARD WOD 08:00": {
-            "id": "321385",
+            "id": "321386",
             "time": "08:00",
             "name": "YARD WOD"
         },
         "METABURN 08:15": {
-            "id": "824701",
+            "id": "824702",
             "time": "08:15",
             "name": "METABURN"
         },
         "SWEAT X 09:20": {
-            "id": "511298",
+            "id": "511299",
             "time": "09:20",
             "name": "SWEAT X"
         },
         "CIRCUITS 10:30": {
-            "id": "740867",
+            "id": "740868",
             "time": "10:30",
             "name": "CIRCUITS"
         },
         "HATHA YOGA 12:00": {
-            "id": "708466",
+            "id": "708467",
             "time": "12:00",
             "name": "HATHA YOGA"
         },
         "YARD WOD 12:00": {
-            "id": "321925",
+            "id": "321926",
             "time": "12:00",
             "name": "YARD WOD"
         },
         "FORCE 12:15": {
-            "id": "841078",
+            "id": "841079",
             "time": "12:15",
             "name": "FORCE"
         },
         "SWEAT X 12:20": {
-            "id": "814556",
+            "id": "814557",
             "time": "12:20",
             "name": "SWEAT X"
         },
         "THE METHOD 12:30": {
-            "id": "708542",
+            "id": "846970",
             "time": "12:30",
             "name": "THE METHOD"
         },
         "HARDCORE CYCLE 12:45": {
-            "id": "322645",
+            "id": "322646",
             "time": "12:45",
             "name": "HARDCORE CYCLE"
         },
         "METCON 13:00": {
-            "id": "839607",
+            "id": "839608",
             "time": "13:00",
             "name": "METCON"
         },
-        "PULSE 13:30": {
-            "id": "656733",
+        "DANCE FIT 13:30": {
+            "id": "847031",
             "time": "13:30",
-            "name": "PULSE"
+            "name": "DANCE FIT"
         },
         "YARD WOD 16:00": {
-            "id": "323365",
+            "id": "323366",
             "time": "16:00",
             "name": "YARD WOD"
         },
         "YARD WOD 17:00": {
-            "id": "773931",
+            "id": "773932",
             "time": "17:00",
             "name": "YARD WOD"
         },
         "HATHA YOGA 17:00": {
-            "id": "795013",
+            "id": "795014",
             "time": "17:00",
             "name": "HATHA YOGA"
         },
         "BODYWEIGHT HIIT 17:15": {
-            "id": "823079",
+            "id": "823080",
             "time": "17:15",
             "name": "BODYWEIGHT HIIT"
         },
         "PULSE 17:30": {
-            "id": "842166",
+            "id": "842167",
             "time": "17:30",
             "name": "PULSE"
         },
         "HARDCORE CYCLE 17:45": {
-            "id": "323905",
+            "id": "323906",
             "time": "17:45",
             "name": "HARDCORE CYCLE"
         },
         "VINYASA YOGA 18:00": {
-            "id": "842492",
+            "id": "842493",
             "time": "18:00",
             "name": "VINYASA YOGA"
         },
         "FORCE 18:15": {
-            "id": "324265",
+            "id": "324266",
             "time": "18:15",
             "name": "FORCE"
         },
         "DANCE FIT 18:30": {
-            "id": "842244",
+            "id": "842245",
             "time": "18:30",
             "name": "DANCE FIT"
         },
         "AQUA FIT 19:00": {
-            "id": "816291",
+            "id": "816292",
             "time": "19:00",
             "name": "AQUA FIT"
         },
         "YIN YOGA 19:00": {
-            "id": "728073",
+            "id": "728074",
             "time": "19:00",
             "name": "YIN YOGA"
         }
     },
     "Saturday": {
         "YARD WOD 08:05": {
-            "id": "522981",
+            "id": "522982",
             "time": "08:05",
             "name": "YARD WOD"
         },
         "STEP 08:15": {
-            "id": "392829",
+            "id": "392830",
             "time": "08:15",
             "name": "STEP"
         },
         "SWEAT X 08:20": {
-            "id": "813224",
+            "id": "813225",
             "time": "08:20",
             "name": "SWEAT X"
         },
         "BOXING PADWORK 08:30": {
-            "id": "718331",
+            "id": "718332",
             "time": "08:30",
             "name": "BOXING PADWORK"
         },
         "VINYASA YOGA 09:00": {
-            "id": "288281",
+            "id": "288282",
             "time": "09:00",
             "name": "VINYASA YOGA"
         },
         "YARD WOD 09:00": {
-            "id": "523189",
+            "id": "523190",
             "time": "09:00",
             "name": "YARD WOD"
         },
         "FORCE 09:15": {
-            "id": "288641",
+            "id": "288642",
             "time": "09:15",
             "name": "FORCE"
         },
         "SWEAT X 09:20": {
-            "id": "708621",
+            "id": "708622",
             "time": "09:20",
             "name": "SWEAT X"
         },
         "THE METHOD 09:30": {
-            "id": "833595",
+            "id": "833596",
             "time": "09:30",
             "name": "THE METHOD"
         },
         "BOXING 09:30": {
-            "id": "718407",
+            "id": "718408",
             "time": "09:30",
             "name": "BOXING"
         },
         "HARDCORE CYCLE 09:45": {
-            "id": "288821",
+            "id": "288822",
             "time": "09:45",
             "name": "HARDCORE CYCLE"
         },
         "VINYASA YOGA 10:00": {
-            "id": "289181",
+            "id": "289182",
             "time": "10:00",
             "name": "VINYASA YOGA"
         },
         "YARD KETTLEBELLS 10:00": {
-            "id": "523085",
+            "id": "523086",
             "time": "10:00",
             "name": "YARD KETTLEBELLS"
         },
         "THE WOD  10:15": {
-            "id": "523545",
+            "id": "523546",
             "time": "10:15",
             "name": "THE WOD "
         },
         "SPEED FIENDS 10:20": {
-            "id": "630041",
+            "id": "630042",
             "time": "10:20",
             "name": "SPEED FIENDS"
         },
         "PULSE 10:30": {
-            "id": "833659",
+            "id": "833660",
             "time": "10:30",
             "name": "PULSE"
         },
         "BOXING SPARRING - ADVANCED ONLY 10:30": {
-            "id": "753355",
+            "id": "753356",
             "time": "10:30",
             "name": "BOXING SPARRING - ADVANCED ONLY"
         },
         "JUST RIDE 10:45": {
-            "id": "289540",
+            "id": "289541",
             "time": "10:45",
             "name": "JUST RIDE"
         },
         "HATHA YOGA 11:00": {
-            "id": "289720",
+            "id": "289721",
             "time": "11:00",
             "name": "HATHA YOGA"
         },
         "LIFT 11:15": {
-            "id": "523650",
+            "id": "523651",
             "time": "11:15",
             "name": "LIFT"
         },
         "SWEAT X 11:20": {
-            "id": "833256",
+            "id": "833257",
             "time": "11:20",
             "name": "SWEAT X"
         },
         "KICKBOXING 11:30": {
-            "id": "783622",
+            "id": "783623",
             "time": "11:30",
             "name": "KICKBOXING"
         },
         "DANCE FIT 11:30": {
-            "id": "833703",
+            "id": "833704",
             "time": "11:30",
             "name": "DANCE FIT"
         },
         "VINYASA YOGA 12:00": {
-            "id": "708773",
+            "id": "708774",
             "time": "12:00",
             "name": "VINYASA YOGA"
         },
+        "LGA 12:15": {
+            "id": "846242",
+            "time": "12:15",
+            "name": "LGA"
+        },
         "YARD CIRCUIT  12:15": {
-            "id": "708849",
+            "id": "708850",
             "time": "12:15",
             "name": "YARD CIRCUIT "
         },
-        "ZUMBA 12:30": {
-            "id": "708926",
+        "DANCE FIT 12:30": {
+            "id": "844472",
             "time": "12:30",
-            "name": "ZUMBA"
-        },
-        "AQUA FIT 13:30": {
-            "id": "709003",
-            "time": "13:30",
-            "name": "AQUA FIT"
+            "name": "DANCE FIT"
         },
         "DYNAMIC PILATES 13:30": {
-            "id": "631444",
+            "id": "631445",
             "time": "13:30",
             "name": "DYNAMIC PILATES"
         },
+        "AQUA FIT 13:30": {
+            "id": "709004",
+            "time": "13:30",
+            "name": "AQUA FIT"
+        },
         "PILATES FUNDAMENTALS 14:30": {
-            "id": "740763",
+            "id": "740764",
             "time": "14:30",
             "name": "PILATES FUNDAMENTALS"
+        }
+    },
+    "Sunday": {
+        "FORMULA 3 09:15": {
+            "id": "631584",
+            "time": "09:15",
+            "name": "FORMULA 3"
+        },
+        "DYNAMIC PILATES 09:30": {
+            "id": "291700",
+            "time": "09:30",
+            "name": "DYNAMIC PILATES"
+        },
+        "BOXING 09:30": {
+            "id": "292060",
+            "time": "09:30",
+            "name": "BOXING"
+        },
+        "YARD CIRCUIT  09:30": {
+            "id": "733277",
+            "time": "09:30",
+            "name": "YARD CIRCUIT "
+        },
+        "VINYASA YOGA 10:00": {
+            "id": "741028",
+            "time": "10:00",
+            "name": "VINYASA YOGA"
+        },
+        "BODYWEIGHT HIIT 10:15": {
+            "id": "291881",
+            "time": "10:15",
+            "name": "BODYWEIGHT HIIT"
+        },
+        "PILATES FUNDAMENTALS 10:30": {
+            "id": "709087",
+            "time": "10:30",
+            "name": "PILATES FUNDAMENTALS"
+        },
+        "BOXING PADWORK 10:30": {
+            "id": "716509",
+            "time": "10:30",
+            "name": "BOXING PADWORK"
+        },
+        "YARD WOD 11:00": {
+            "id": "733316",
+            "time": "11:00",
+            "name": "YARD WOD"
+        },
+        "HATHA YOGA 11:00": {
+            "id": "292600",
+            "time": "11:00",
+            "name": "HATHA YOGA"
+        },
+        "LIFT 11:15": {
+            "id": "631725",
+            "time": "11:15",
+            "name": "LIFT"
+        },
+        "SWEAT X 11:20": {
+            "id": "755018",
+            "time": "11:20",
+            "name": "SWEAT X"
+        },
+        "DYNAMIC PILATES 11:30": {
+            "id": "709162",
+            "time": "11:30",
+            "name": "DYNAMIC PILATES"
+        },
+        "BOXING FDM 11:30": {
+            "id": "718484",
+            "time": "11:30",
+            "name": "BOXING FDM"
+        },
+        "YIN YOGA 12:00": {
+            "id": "293320",
+            "time": "12:00",
+            "name": "YIN YOGA"
+        },
+        "METABURN 12:15": {
+            "id": "709238",
+            "time": "12:15",
+            "name": "METABURN"
+        },
+        "SPEED FIENDS 12:20": {
+            "id": "631999",
+            "time": "12:20",
+            "name": "SPEED FIENDS"
+        },
+        "KICKBOXING 12:30": {
+            "id": "716582",
+            "time": "12:30",
+            "name": "KICKBOXING"
+        },
+        "HATHA YOGA 13:00": {
+            "id": "709313",
+            "time": "13:00",
+            "name": "HATHA YOGA"
+        },
+        "KETTLEBELLS 13:15": {
+            "id": "733355",
+            "time": "13:15",
+            "name": "KETTLEBELLS"
+        },
+        "SWEAT X 13:20": {
+            "id": "632428",
+            "time": "13:20",
+            "name": "SWEAT X"
+        },
+        "KICKBOXING 13:30": {
+            "id": "808246",
+            "time": "13:30",
+            "name": "KICKBOXING"
+        },
+        "LGA 14:15": {
+            "id": "744498",
+            "time": "14:15",
+            "name": "LGA"
+        },
+        "HATHA YOGA 15:00": {
+            "id": "632711",
+            "time": "15:00",
+            "name": "HATHA YOGA"
+        },
+        "CORE 45 15:15": {
+            "id": "768998",
+            "time": "15:15",
+            "name": "CORE 45"
+        }
+    },
+    "Monday": {
+        "BODYWEIGHT HIIT 06:15": {
+            "id": "838200",
+            "time": "06:15",
+            "name": "BODYWEIGHT HIIT"
+        },
+        "JUST RIDE 06:45": {
+            "id": "625742",
+            "time": "06:45",
+            "name": "JUST RIDE"
+        },
+        "HATHA YOGA 07:00": {
+            "id": "811039",
+            "time": "07:00",
+            "name": "HATHA YOGA"
+        },
+        "YARD WOD 07:00": {
+            "id": "294221",
+            "time": "07:00",
+            "name": "YARD WOD"
+        },
+        "LIFT 07:15": {
+            "id": "294581",
+            "time": "07:15",
+            "name": "LIFT"
+        },
+        "SPEED FIENDS 07:20": {
+            "id": "508611",
+            "time": "07:20",
+            "name": "SPEED FIENDS"
+        },
+        "YARD WOD 08:00": {
+            "id": "804747",
+            "time": "08:00",
+            "name": "YARD WOD"
+        },
+        "SPEED FIENDS 09:20": {
+            "id": "709465",
+            "time": "09:20",
+            "name": "SPEED FIENDS"
+        },
+        "YARD WOD 12:00": {
+            "id": "295841",
+            "time": "12:00",
+            "name": "YARD WOD"
+        },
+        "LIFT 12:15": {
+            "id": "739899",
+            "time": "12:15",
+            "name": "LIFT"
+        },
+        "SWEAT X 12:20": {
+            "id": "791331",
+            "time": "12:20",
+            "name": "SWEAT X"
+        },
+        "BOXING 12:30": {
+            "id": "626164",
+            "time": "12:30",
+            "name": "BOXING"
+        },
+        "THE METHOD 12:30": {
+            "id": "626027",
+            "time": "12:30",
+            "name": "THE METHOD"
+        },
+        "HARDCORE CYCLE 12:45": {
+            "id": "296561",
+            "time": "12:45",
+            "name": "HARDCORE CYCLE"
+        },
+        "YARD KETTLEBELLS 13:00": {
+            "id": "296920",
+            "time": "13:00",
+            "name": "YARD KETTLEBELLS"
+        },
+        "YIN YOGA 13:00": {
+            "id": "297280",
+            "time": "13:00",
+            "name": "YIN YOGA"
+        },
+        "FORMULA 3 13:15": {
+            "id": "739967",
+            "time": "13:15",
+            "name": "FORMULA 3"
+        },
+        "SPEED FIENDS 13:20": {
+            "id": "791378",
+            "time": "13:20",
+            "name": "SPEED FIENDS"
+        },
+        "DANCE FIT 13:30": {
+            "id": "846310",
+            "time": "13:30",
+            "name": "DANCE FIT"
+        },
+        "YARD WOD 17:00": {
+            "id": "299226",
+            "time": "17:00",
+            "name": "YARD WOD"
+        },
+        "CORE 45 17:15": {
+            "id": "761187",
+            "time": "17:15",
+            "name": "CORE 45"
+        },
+        "LEARN TO YOGA 17:15": {
+            "id": "829318",
+            "time": "17:15",
+            "name": "LEARN TO YOGA"
+        },
+        "SWEAT X 17:20": {
+            "id": "807610",
+            "time": "17:20",
+            "name": "SWEAT X"
+        },
+        "KICKBOXING 17:30": {
+            "id": "677918",
+            "time": "17:30",
+            "name": "KICKBOXING"
+        },
+        "JUST RIDE 17:45": {
+            "id": "298897",
+            "time": "17:45",
+            "name": "JUST RIDE"
+        },
+        "HATHA YOGA 18:00": {
+            "id": "705012",
+            "time": "18:00",
+            "name": "HATHA YOGA"
+        },
+        "YARD WOD 18:00": {
+            "id": "509132",
+            "time": "18:00",
+            "name": "YARD WOD"
+        },
+        "AFTERBURNER 18:05": {
+            "id": "743757",
+            "time": "18:05",
+            "name": "AFTERBURNER"
+        },
+        "LIFT 18:15": {
+            "id": "746573",
+            "time": "18:15",
+            "name": "LIFT"
+        },
+        "SWEAT X 18:20": {
+            "id": "837903",
+            "time": "18:20",
+            "name": "SWEAT X"
+        },
+        "SWIM - SKILLS & DRILLS 18:30": {
+            "id": "705091",
+            "time": "18:30",
+            "name": "SWIM - SKILLS & DRILLS"
+        },
+        "KICKBOXING 18:30": {
+            "id": "299978",
+            "time": "18:30",
+            "name": "KICKBOXING"
+        },
+        "DYNAMIC PILATES 18:30": {
+            "id": "405965",
+            "time": "18:30",
+            "name": "DYNAMIC PILATES"
+        },
+        "HARDCORE CYCLE 18:45": {
+            "id": "300158",
+            "time": "18:45",
+            "name": "HARDCORE CYCLE"
+        },
+        "YARD KETTLEBELLS 19:00": {
+            "id": "300518",
+            "time": "19:00",
+            "name": "YARD KETTLEBELLS"
+        },
+        "VINYASA YOGA 19:00": {
+            "id": "300698",
+            "time": "19:00",
+            "name": "VINYASA YOGA"
+        },
+        "METABURN 19:15": {
+            "id": "300878",
+            "time": "19:15",
+            "name": "METABURN"
+        },
+        "SPEED FIENDS 19:20": {
+            "id": "749456",
+            "time": "19:20",
+            "name": "SPEED FIENDS"
+        },
+        "PILATES FUNDAMENTALS 19:30": {
+            "id": "740681",
+            "time": "19:30",
+            "name": "PILATES FUNDAMENTALS"
+        },
+        "BOXING 19:30": {
+            "id": "821084",
+            "time": "19:30",
+            "name": "BOXING"
+        },
+        "VINYASA YOGA 20:00": {
+            "id": "627418",
+            "time": "20:00",
+            "name": "VINYASA YOGA"
         }
     }
 }
