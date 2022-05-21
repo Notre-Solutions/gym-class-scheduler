@@ -22,6 +22,7 @@ def book_class(name, user, password, day, time):
 
 
 def main():
+    BookClass().get_week_schedule_data()
     classes = get_classes()  # Get users from table with todays resume_dttime
     print(classes)
     keys = classes.keys()

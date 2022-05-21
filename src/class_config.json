@@ -1,33 +1,4 @@
 {
-  "MondayBoxingNyashaTest": {
-    "Name":"DANCE FIT",
-    "DayOfWeek":"Monday",
-    "Time":"13:30",
-    "Username":"nyasharonaldo@gmail.com",
-    "Password":"6BCMad6NTBs4oFrC"
-  },
-  "TuesdayBoxingNyashaTest": {
-    "Name":"BOXING SPARRING - ADVANCED ONLY",
-    "DayOfWeek":"Tuesday",
-    "Time":"20:30",
-    "Username":"nyasharonaldo@gmail.com",
-    "Password":"6BCMad6NTBs4oFrC"
-  },
-  
-  "TuesdayBoxingNyasha": {
-    "Name":"BOXING FDM",
-    "DayOfWeek":"Tuesday",
-    "Time":"20:28",
-    "Username":"nyasharonaldo@gmail.com",
-    "Password":"6BCMad6NTBs4oFrC"
-  },
-  "TuesdayBoxingSte": {
-    "Name":"BOXING FDM",
-    "DayOfWeek":"Tuesday",
-    "Time":"17:30",
-    "Username":"stephenkelehan@gmail.com",
-    "Password":"46292edd"
-  },
   "WednesdayBoxingNyasha": {
     "Name":"BOXING FDM",
     "DayOfWeek":"Wednesday",
