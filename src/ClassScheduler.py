@@ -46,12 +46,12 @@ def main():
             sched.add_job(
                 lambda name=name, user=user, password=password, day=day, time=time: book_class(name, user, password, day, time),
                 trigger='cron',
-                hour=14,
-                minute=7
+                hour=hr,
+                minute=minute
             )
         
 
-@sched.scheduled_job('cron', hour=14, minute=6)
+@sched.scheduled_job('cron', hour=6)
 def scheduled_job():
     """
     """
