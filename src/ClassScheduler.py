@@ -26,6 +26,7 @@ def main():
     print(classes)
     keys = classes.keys()
     log.info(classes)
+    to_be_booked = []
     for c in keys:
         name = classes[c]['Name']
         day = classes[c]['DayOfWeek']
@@ -42,14 +43,14 @@ def main():
         if tminus2 == today:
             hr, minute = time.split(':')
             sched.add_job(
-                lambda: book_class(name, user, password, day, time),
+                lambda name=name, user=user, password=password, day=day, time=time: book_class(name, user, password, day, time),
                 trigger='cron',
-                hour=hr,
-                minute=minute
+                hour=14,
+                minute=7
             )
+        
 
-
-@sched.scheduled_job('cron', hour=20, minute=29)
+@sched.scheduled_job('cron', hour=14, minute=6)
 def scheduled_job():
     """
     """

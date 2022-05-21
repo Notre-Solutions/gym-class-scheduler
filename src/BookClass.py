@@ -76,6 +76,7 @@ class BookClass:
         except Exception as error:
             log.error('Error getting class id', error)
 
+    @retry(Exception, delay=5, tries=2)
     def join_waiting_list(self, user, password, class_name, class_time, class_day, class_id):
         try:
             log.info('Joining waiting list for class: {0} on {1} at {2} for user: {3}'. format(
@@ -107,7 +108,7 @@ class BookClass:
                     if 'Something went wrong' in response.text:
                         log.error(
                             'Unable to join waiting list for class ({0} on {1} at {2} for user: {3}) - \
-                            something went wrong. The class is most likely booked up'.format(
+                            something went wrong.'.format(
                                 class_name,
                                 class_day,
                                 class_time,
@@ -125,6 +126,7 @@ class BookClass:
         except Exception as error:
             log.error('Error booking class', error)
 
+    @retry(Exception, delay=5, tries=2)
     def book_class(self, user, password, class_name, class_time, class_day):
         try:
             log.info('Booking class: {0} on {1} at {2} for user: {3}'. format(

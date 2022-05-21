@@ -1,4 +1,11 @@
 {
+  "MondayBoxingNyashaTest": {
+    "Name":"DANCE FIT",
+    "DayOfWeek":"Monday",
+    "Time":"13:30",
+    "Username":"nyasharonaldo@gmail.com",
+    "Password":"6BCMad6NTBs4oFrC"
+  },
   "TuesdayBoxingNyashaTest": {
     "Name":"BOXING SPARRING - ADVANCED ONLY",
     "DayOfWeek":"Tuesday",
