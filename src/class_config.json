@@ -14,6 +14,13 @@
     "Username":"nyasharonaldo@gmail.com",
     "Password":"6BCMad6NTBs4oFrC"
   },
+  "TuesdayBoxingSte": {
+    "Name":"BOXING FDM",
+    "DayOfWeek":"Tuesday",
+    "Time":"17:30",
+    "Username":"stephenkelehan@gmail.com",
+    "Password":"46292edd"
+  },
   "WednesdayBoxingNyasha": {
     "Name":"BOXING FDM",
     "DayOfWeek":"Wednesday",
@@ -21,11 +28,25 @@
     "Username":"nyasharonaldo@gmail.com",
     "Password":"6BCMad6NTBs4oFrC"
   },
+  "WednesdayBoxingSte": {
+    "Name":"BOXING FDM",
+    "DayOfWeek":"Wednesday",
+    "Time":"19:30",
+    "Username":"stephenkelehan@gmail.com",
+    "Password":"46292edd"
+  },
   "SundayBoxingNyasha": {
     "Name":"BOXING FDM",
     "DayOfWeek":"Sunday",
     "Time":"11:30",
     "Username":"nyasharonaldo@gmail.com",
     "Password":"6BCMad6NTBs4oFrC"
+  },
+  "SundayBoxingSte": {
+    "Name":"BOXING FDM",
+    "DayOfWeek":"Sunday",
+    "Time":"11:30",
+    "Username":"stephenkelehan@gmail.com",
+    "Password":"46292edd"
   }
 }

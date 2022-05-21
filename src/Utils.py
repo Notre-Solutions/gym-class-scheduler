@@ -25,6 +25,7 @@ num_to_weekday = {
      6: "Sunday"
 }
 
+
 class Utils:
     def __init__(self):
         pass
