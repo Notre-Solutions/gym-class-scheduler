@@ -1,8 +1,16 @@
 {
+  "TuesdayBoxingNyashaTest": {
+    "Name":"BOXING SPARRING - ADVANCED ONLY",
+    "DayOfWeek":"Tuesday",
+    "Time":"20:30",
+    "Username":"nyasharonaldo@gmail.com",
+    "Password":"6BCMad6NTBs4oFrC"
+  },
+  
   "TuesdayBoxingNyasha": {
     "Name":"BOXING FDM",
     "DayOfWeek":"Tuesday",
-    "Time":"17:30",
+    "Time":"20:28",
     "Username":"nyasharonaldo@gmail.com",
     "Password":"6BCMad6NTBs4oFrC"
   },

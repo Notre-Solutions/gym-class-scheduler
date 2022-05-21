@@ -32,7 +32,7 @@ class Utils:
     @staticmethod
     def get_config():
         config = configparser.ConfigParser()
-        config.read('config.ini')
+        config.read('src/config.ini')
         log.info('Reading config.ini')
         return config
 

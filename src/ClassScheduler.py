@@ -17,11 +17,13 @@ def get_classes():
 
 
 def book_class(name, user, password, day, time):
+    print(name, user, password, day, time)
     BookClass().book_class(user, password, name, time, day)
 
 
 def main():
     classes = get_classes()  # Get users from table with todays resume_dttime
+    print(classes)
     keys = classes.keys()
     log.info(classes)
     for c in keys:
@@ -47,10 +49,11 @@ def main():
             )
 
 
-@sched.scheduled_job('cron', hour=6)
+@sched.scheduled_job('cron', hour=20, minute=29)
 def scheduled_job():
     """
     """
+    print("starting")
     main()
 
 
