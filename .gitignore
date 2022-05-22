@@ -3,3 +3,4 @@
 src/time_table_data.json
 src/*cache*
 src/.DS_Store
+src/config.ini
