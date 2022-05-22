@@ -1,16 +1,22 @@
 import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 
 class Email:
     def __init__(self, _server='smtp.gmail.com', port='587', password='', _from='', to='', body='', subject=''):
-        self._from = _from
-        self.to = to
-        self.body = body
-        self.subject = subject
         self.server = smtplib.SMTP(f"{_server}:{port}")
+
+        self.msg = MIMEMultipart('alternative')
+        self.msg['Subject'] = subject
+        self.msg['From'] = _from
+        self.msg['To'] = to
 
         self.server.ehlo()
         self.server.starttls()
+
+        if body != '':
+            self.msg.attach(MIMEText(body, 'html'))
 
         if _from != '' and password != '':
             self.server.login(_from, password)
@@ -19,7 +25,7 @@ class Email:
         return f'subject: {self.subject}\n\n{self.body}'
 
     def send_mail(self):
-        self.server.sendmail(self._from, self.to, self.generate_message())
+        self.server.sendmail(self.msg['From'], self.msg['To'] , self.msg.as_string())
         self.server.quit()
 
     def log_in(self, _from, password):
@@ -41,7 +47,7 @@ if __name__ == "__main__":
         password='',
         _from='',
         to='',
-        body='test',
-        subject='test'
+        body=create_html_body('Test Class', '00:00', 'Today', 'test user'),
+        subject='Could not book Test Class on Today at 00:00'
     )
     email.send_mail()

@@ -131,7 +131,7 @@ class BookClass:
             email = Email(
                 password=email_config['PASSWORD'],
                 _from=email_config['ADDRESS'],
-                to=email_config['TO'],
+                to=user,
                 subject=f'Could not book {class_name} on {class_day} at {class_time}',
                 body=create_html_body(class_name=class_name,
                                       time=class_time,
