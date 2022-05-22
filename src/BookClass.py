@@ -4,8 +4,9 @@ import json
 from Utils import Utils, num_to_weekday
 from retry import retry
 import logging
-import logs
+import Logs
 import datetime
+from Email import Email, create_html_body
 
 log = logging.getLogger('BookClass')
 
@@ -125,6 +126,19 @@ class BookClass:
                     log.error('Response {0}'.format(response.status_code))
         except Exception as error:
             log.error('Error booking class', error)
+        finally:
+            email_config = self.utils.get_config()['EMAIL']
+            email = Email(
+                password=email_config['PASSWORD'],
+                _from=email_config['ADDRESS'],
+                to=email_config['TO'],
+                subject=f'Could not book {class_name} on {class_day} at {class_time}',
+                body=create_html_body(class_name=class_name,
+                                      time=class_time,
+                                      day=class_day,
+                                      user=user)
+            )
+            email.send_mail()
 
     @retry(Exception, delay=5, tries=2)
     def book_class(self, user, password, class_name, class_time, class_day):
@@ -179,7 +193,7 @@ class BookClass:
 
 
 if __name__ == "__main__":
-    logs.setup_logger('BookClass')
+    Logs.setup_logger('BookClass')
     BookClass().get_week_schedule_data()
     BookClass().book_class(user='stephenkelehan@gmail.com',
                            password='46292edd',

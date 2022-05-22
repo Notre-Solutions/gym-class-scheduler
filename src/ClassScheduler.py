@@ -2,7 +2,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 import json
 from datetime import datetime
 from Utils import Utils, weekday
-from logs import setup_logger
+from Logs import setup_logger
 from BookClass import BookClass
 
 sched = BlockingScheduler()
